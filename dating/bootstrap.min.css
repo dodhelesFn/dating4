@@ -2280,8 +2280,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 .btn-danger {
 	color: #fff;
-	background-color: .bg-transparent;
-	border-color: #FF1493	
+	background-color: rgba(225, 83, 97, .5);
+	border-color: #c82333	
 }
 .btn-danger:hover {
 	color: #fff;
